@@ -5,3 +5,5 @@
 
 
 Caveat: Auth doesn't work with Facebook/Google+ . You'll need your email/password. Fix?
+Need : [Google Chrome App Launcher](https://chrome.google.com/webstore/launcher)
+It works as 8tracks.com in an app. 
